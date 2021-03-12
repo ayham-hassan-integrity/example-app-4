@@ -13,7 +13,6 @@ use App\Domains\Auth\Services\RoleService;
 /**
  * Class RoleController.
  */
- /** @OA\Info(title="example-app-4 API", version="0.1") */
 class RoleController
 {
     /**
